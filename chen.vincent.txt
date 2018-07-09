@@ -1,0 +1,37 @@
+Name                                             Chen, Vincent
+Student ID                                            26217516
+SIS User ID                                           26217516
+User ID                                                1100927
+Email Address                        chen.vincent@berkeley.edu
+Grading Basis                                           Letter
+hw01                                                     81.82
+hw02                                                     66.67
+hw03                                                     96.88
+hw04                                                       100
+hw05                                                     98.21
+hw06                                                        89
+proj1                                                    97.22
+proj2                                                    95.24
+Homework Final Score                                     88.76
+Projects Final Score                                     96.23
+Vitamins Final Score                                     73.29
+Labs Final Score                                            90
+Participation Final Score                                   88
+Midterm Final Score                                      79.57
+Final Final Score                                        76.38
+Final Score                                              83.27
+Took Midterm Survey                                       True
+Took Final Survey                                         True
+Opt Out Attendance                                       False
+Corrected Midterm Exam Score                             80.57
+Corrected Final Exam Score                               78.38
+Corrected Attendance                                       100
+Corrected Homework Score                                93.182
+Overall Score                                          85.5519
+isLetter                                                  True
+isPNP                                                    False
+isSU                                                     False
+Letter Grade                                                B+
+PrePNP                                                      B+
+Comment                         85.6% points for a grade of B+
+Name: 313, dtype: object
